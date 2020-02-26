@@ -1,6 +1,3 @@
-# hse-moscow-ml
-Lectures on Machine Learning at HSE, Moscow
-
 # Machine Learning @ Applied Statistics with Network Analysis, HSE, Moscow
 
 This repository includes teaching materials related to the elective course Machine Learning taught at the [HSE-Moscow](https://www.hse.ru/en/) masters programme [Applied Statistics with Network Analysis](https://www.hse.ru/en/ma/sna/). The materials are organized in sections corresponding to lecture days. Each section provides a brief outline of the topics addressed, access to the lecture slides, outline of the practical exercises and seminars, and references to the relevant literature.
