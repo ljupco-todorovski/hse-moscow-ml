@@ -58,6 +58,8 @@ For further information on the course, students can contact the lecturers via em
 
 ### References
 
+Section 9 in (James et al 2013) [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/). Springer, New York. Check also exercises 1-8 in the same section.
+
 
 ## Day 7: Artificial neural networks and deep learning
 * General intro to ANNs
