@@ -1,17 +1,18 @@
 # Machine Learning @ Applied Statistics with Network Analysis, HSE, Moscow
 
-You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-si.zoom.us/j/97756216461), https://fmf-uni-lj-si.zoom.us/j/97756216461 or join the Zoom meeting using the ID 977 562 16461.
-
 This repository includes teaching materials related to the elective course Machine Learning taught at the [HSE-Moscow](https://www.hse.ru/en/) masters programme [Applied Statistics with Network Analysis](https://www.hse.ru/en/ma/sna/). The materials are organized in sections corresponding to lecture days. Each section provides a brief outline of the topics addressed, access to the lecture slides, outline of the practical exercises and seminars, and references to the relevant literature.
 
-For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si), nada.lavrac@ijs.si and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si), ljupco.todorovski@fu.uni-lj.si.
+For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si), `nada.lavrac@ijs.si` and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si), `ljupco.todorovski@fu.uni-lj.si`.
 
 
-## Course Schedule for the Academic Year 2020/21
+## Tentative Course Schedule for the Academic Year 2020/21
 
-Thursday, 14th of January 2021: Introduction to Machine Learning
-...
+You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-si.zoom.us/j/97756216461), `https://fmf-uni-lj-si.zoom.us/j/97756216461` or join the Zoom meeting using the ID `977 562 16461`.
 
+| Date | Topic |
+----------------
+| Thursday, 14th of January 2021 | Introduction to Machine Learning |
+|... | 
 
 ## Topic 1: Introduction to Machine Learning
 * Basic definitions and taxonomy of learning tasks
@@ -20,28 +21,27 @@ Thursday, 14th of January 2021: Introduction to Machine Learning
 
 [Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/01-intro.pdf)
 
-[Exercises](./01/)
-
-### References
+### Literature
 
 
-## Day 2 (Tuesday, 16th of January 2021): Learning Rules
+## Topic 2: Learning Rules
 * Covering algorithm and its variants
 * Association rules and subgroup discovery
 * Evaluating rules and rule sets
-* Introduction to ClowdFlows
 
+[Exercises](./02/)
 
-## Day 3: Relational Learning
-* Inductive logic programming
+## Topic 3: Relational Learning
 * Learning relational rules
+* Inductive logic programming
 * Propositionalization
-* Relational learning in ClowdFlows: machine learning on networks
+* Wordification and Python-RDM
 
 
-## Day 4: Semantic Machine Learning
+## Topic 4: Learning from Heterogeneous Data
+* Propositionalization of heterogeneous information networks
 * Learning from taxonomies and ontologies
-* Semantic learning in ClowdFlows
+* Semantic learning with HINMINE
 
 
 ## Day 5: Learning Ensembles
