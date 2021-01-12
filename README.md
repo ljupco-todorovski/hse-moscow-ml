@@ -1,8 +1,10 @@
 # Machine Learning @ Applied Statistics with Network Analysis, HSE, Moscow
 
+You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-si.zoom.us/j/97756216461), https://fmf-uni-lj-si.zoom.us/j/97756216461 or join the Zoom meeting using the ID 977 562 16461.
+
 This repository includes teaching materials related to the elective course Machine Learning taught at the [HSE-Moscow](https://www.hse.ru/en/) masters programme [Applied Statistics with Network Analysis](https://www.hse.ru/en/ma/sna/). The materials are organized in sections corresponding to lecture days. Each section provides a brief outline of the topics addressed, access to the lecture slides, outline of the practical exercises and seminars, and references to the relevant literature.
 
-For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si) and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si).
+For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si), nada.lavrac@ijs.si and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si), ljupco.todorovski@fu.uni-lj.si.
 
 
 ## Day 1 (Thursday, 14th of January 2021): Introduction to Machine Learning
