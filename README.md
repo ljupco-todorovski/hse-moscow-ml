@@ -13,7 +13,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 |--------------------------------|-------------------------------------------------------|
 | Thursday, 14th of January 2021 | Introduction to Machine Learning                      |
 | ...                            |                                                       |
-|--------------------------------|-------------------------------------------------------|
+
 
 ## Topic 1: Introduction to Machine Learning
 * Basic definitions and taxonomy of learning tasks
