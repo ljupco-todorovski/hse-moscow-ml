@@ -13,13 +13,13 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 |---------------------------------|-------------------------------------------------------|
 | Thursday, 14th of January 2021  | Introduction to Machine Learning                      |
 | Tuesday, 19th of January 2021   | Learning Rules |
-| Thursday, 21st of January 2021  | ... |
-| Tuesday, 26th of January 2021   | ... |
-| Thursday, 28th of January 2021  | ... |
-| Tuesday, 2nd of February 2021   | ... |
-| Thursday, 4th of February 2021  | ... |
-| Tuesday, 9th of February 2021   | ... |
-| Thursday, 11th of February 2021 | ... |
+| Thursday, 21st of January 2021  | Relational Learning |
+| Tuesday, 26th of January 2021   | Learning from Heterogeneous Data |
+| Thursday, 28th of January 2021  | Learning Ensembles |
+| Tuesday, 2nd of February 2021   | Support Vectors Machines and Kernels |
+| Thursday, 4th of February 2021  | Artificial Neural Networks and Deep Learning |
+| Tuesday, 9th of February 2021   | Complex Data Types and Embeddings |
+| Thursday, 11th of February 2021 | Dimensionality Reduction with Autoencoders |
 | Tuesday, 16th of February 2021  | ... |
 
 
@@ -75,20 +75,20 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 Section 9 in (James et al 2013) [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/). Springer, New York. Check also exercises 1-8 in the same section.
 
 
-## 7: Artificial neural networks and deep learning
+## 7: Artificial Neural Networks and Deep Learning
 * General intro to ANNs
 * Feed-forward networks and back propagation
 * Towards deep networks: Convolutional networks
 * ANNs in R
 
 
-## 8: Complex data types and embeddings
+## 8: Complex Data Types and Embeddings
 * Embeddings for text data, word2vec and doc2vec
 * Embeddings for network data, node2vec
 * Embeddings in R
 
 
-## 9: Autoencoders
+## 9: Dimensionality reduction with Autoencoders
 * Autoencoders as general embedding approach
 * Taxonomy of autoencoders: regularization and denoising
 * Autoencoders in R
