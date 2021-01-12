@@ -9,10 +9,11 @@ For further information on the course, students can contact the lecturers via em
 
 You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-si.zoom.us/j/97756216461), `https://fmf-uni-lj-si.zoom.us/j/97756216461` or join the Zoom meeting using the ID `977 562 16461`.
 
-| Date | Topic |
-----------------
-| Thursday, 14th of January 2021 | Introduction to Machine Learning |
-|... | 
+| Date                           | Topic                                                 |
+------------------------------------------------------------------------------------------
+| Thursday, 14th of January 2021 | Introduction to Machine Learning                      |
+| ...                            |                                                       |
+------------------------------------------------------------------------------------------
 
 ## Topic 1: Introduction to Machine Learning
 * Basic definitions and taxonomy of learning tasks
