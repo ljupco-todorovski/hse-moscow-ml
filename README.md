@@ -5,7 +5,7 @@ This repository includes teaching materials related to the elective course Machi
 For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si) and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si).
 
 
-## Day 1: Introduction to Machine Learning
+## Day 1 (Thursday, 14th of January 2021): Introduction to Machine Learning
 * Basic definitions and taxonomy of learning tasks
 * Learning performance, evaluation of learning
 * Examples of applications
@@ -17,7 +17,7 @@ For further information on the course, students can contact the lecturers via em
 ### References
 
 
-## Day 2: Learning Rules
+## Day 2 (Tuesday, 16th of January 2021): Learning Rules
 * Covering algorithm and its variants
 * Association rules and subgroup discovery
 * Evaluating rules and rule sets
