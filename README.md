@@ -77,7 +77,7 @@ Last update: 14th of January 2021
 ### Slides and Exercise Materials
 [Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-06-SVM.pdf)<BR/>
 [Exercises](./06-SVM/)<BR/>
-Last update: 14th of January
+Last update: 14th of January 2021
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Freely available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
