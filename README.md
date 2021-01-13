@@ -31,6 +31,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 * Rough overview of the course topics
 
 [Slides, first part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)
+
 [Slides, second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)
 
 Last update: Thursday, 14th of January 2021
