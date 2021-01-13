@@ -33,12 +33,12 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 ### Slides
 [First part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)<BR/>
 [Second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)<BR/>
-Last update: Thursday, 14th of January 2021
+Last update: 14th of January 2021
 
 ### Literature
-* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer. Freely available at [https://statlearning.com/](https://statlearning.com/). Sections 1 and 2, check also the exercises at the end of Section 2.
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Freely available at [https://statlearning.com/](https://statlearning.com/). Sections 1 and 2, check also the exercises at the end of Section 2.
 
-* Bremer M (2007) Principles of Data Mining. Springer. [DOI:10.1007/978-1-84628-766-4](https://doi.org/10.1007/978-1-84628-766-4). An introductory textbook for refreshing your knowledge on basics of data mining. The first edition of the textbook is publicly available at [ResearchGate](https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining), `https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining`
+* Bremer M (2007) Principles of Data Mining. Springer, Berlin. [DOI:10.1007/978-1-84628-766-4](https://doi.org/10.1007/978-1-84628-766-4). An introductory textbook for refreshing your knowledge on basics of data mining. The first edition of the textbook is publicly available at [ResearchGate](https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining), `https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining`
 
 
 ## 2: Learning Rules
@@ -74,14 +74,13 @@ Last update: Thursday, 14th of January 2021
 * Selecting kernels, setting hyper-parameters
 * Support vector machines and kernels in R
 
-[Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/06-svm.pdf)
+### Slides and Exercise Materials
+[Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-06-SVM.pdf)<BR/>
+[Exercises](./06-SVM/)<BR/>
+Last update: 14th of January
 
-[Exercises](./06/)
-
-### References
-
-Section 9 in (James et al 2013) [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/). Springer, New York. Check also exercises 1-8 in the same section.
-
+### Literature
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Freely available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
 
 ## 7: Artificial Neural Networks and Deep Learning
 * General intro to ANNs
