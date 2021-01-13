@@ -30,8 +30,9 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 * The curse of dimensionality
 * Rough overview of the course topics
 
-[Slides, first part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)<BR/>
-[Slides, second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)<BR/>
+### Slides
+* [First part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)<BR/>
+* [Second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)<BR/>
 Last update: Thursday, 14th of January 2021
 
 ### Literature
