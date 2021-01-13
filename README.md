@@ -20,17 +20,25 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Thursday, 4th of February 2021  | Artificial Neural Networks and Deep Learning |
 | Tuesday, 9th of February 2021   | Complex Data Types and Embeddings |
 | Thursday, 11th of February 2021 | Dimensionality Reduction with Autoencoders |
-| Tuesday, 16th of February 2021  | ... |
+| Tuesday, 16th of February 2021  | TBA |
 
 
 ## 1: Introduction to Machine Learning
 * Basic definitions and taxonomy of learning tasks
-* Learning performance, evaluation of learning
-* Examples of applications
+* Three generations of machine learning and data mining methods
+* Understanding the error of machine learning models
+* The curse of dimensionality
+* Rough overview of the course topics
 
-[Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/01-intro.pdf)
+[Slides, first part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)
+[Slides, second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)
+
+Last update: Thursday, 14th of January 2021
 
 ### Literature
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer. Freely available at [https://statlearning.com/](https://statlearning.com/). Sections 1 and 2, check also the exercises at the end of Section 2.
+
+* Bremer M (2007) Principles of Data Mining. Springer. DOI: 10.1007/978-1-84628-766-4. An introductory book on data mining to refresh your knowledge on basics of data mining. The first edition of the book is publicly available at [ResearchGate](https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining), `https://www.researchgate.net/publication/220688376_Principles_of_Data_Mining`
 
 
 ## 2: Learning Rules
