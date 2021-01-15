@@ -33,7 +33,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 ### Slides
 [First part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)<BR/>
 [Second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)<BR/>
-Last update: 14th of January 2021
+Last update: 15th of January 2021, 9:10 CET
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Sections 1 and 2, check also the exercises at the end of Section 2.
