@@ -12,7 +12,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Date                            | Topic/Section                                         |
 |---------------------------------|-------------------------------------------------------|
 | Thursday, 14th of January 2021  | [Introduction to Machine Learning](#1-introduction-to-machine-learning) |
-| Tuesday, 19th of January 2021   | Learning Rules |
+| Tuesday, 19th of January 2021   | [Learning Rules](#2-leatning-rules) |
 | Thursday, 21st of January 2021  | Relational Learning |
 | Tuesday, 26th of January 2021   | Learning from Heterogeneous Data |
 | Thursday, 28th of January 2021  | Learning Ensembles |
@@ -42,11 +42,17 @@ Last update: 15th of January 2021, 9:10 CET
 
 
 ## 2: Learning Rules
+* Learning rules from decision trees
 * Covering algorithm and its variants
 * Association rules and subgroup discovery
 * Evaluating rules and rule sets
 
-[Exercises](./02/)
+### Slides
+[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)
+Last update: 19th of January 2021, 14:10 CET
+
+### Exercises
+[Learning decision trees and rules in R]()
 
 ## 3: Relational Learning
 * Learning relational rules
