@@ -48,11 +48,11 @@ Last update: 15th of January 2021, 9:10 CET
 * Evaluating rules and rule sets
 
 ### Slides
-[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)
+[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)<BR/>
 Last update: 19th of January 2021, 14:10 CET
 
 ### Exercises
-[Learning decision trees and rules in R]()
+[Learning decision trees and rules in R]()<BR/>
 
 ## 3: Relational Learning
 * Learning relational rules
