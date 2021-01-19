@@ -52,7 +52,7 @@ Last update: 15th of January 2021, 9:10 CET
 Last update: 19th of January 2021, 14:10 CET
 
 ### Exercises
-[Learning decision trees and rules in R]()<BR/>
+[Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
 
 ## 3: Relational Learning
 * Learning relational rules
