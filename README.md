@@ -30,7 +30,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 * The curse of dimensionality
 * Rough overview of the course topics
 
-### Slides
+### Lecture Slides
 [First part, Nada Lavrač](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-NL.pdf)<BR/>
 [Second part, Ljupčo Todorovski](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-01-Introduction-LT.pdf)<BR/>
 Last update: 15th of January 2021, 9:10 CET
@@ -47,16 +47,15 @@ Last update: 15th of January 2021, 9:10 CET
 * Association rules and subgroup discovery
 * Evaluating rules and rule sets
 
-### Slides
+### Lecture Slides
 [Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)<BR/>
 Last update: 19th of January 2021, 14:10 CET
 
-### Exercises
+### Exercise Materials
 [Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
 Last update: 19th of January 2021, 17:20 CET
 
 ### Literature
-
 * Fürnkranz J, Gamberger D and Lavrač N (2012) Foundations of Rule Learning. Springer, Berlin. [DOI:10.1007/978-3-540-75197-7](https://doi.org/10.1007/978-3-540-75197-7). Chapters 1 and 2, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/fur-etal-12-foundations-of-rule-learning-chapters-1-2.pdf).
 
 
@@ -66,9 +65,7 @@ Last update: 19th of January 2021, 17:20 CET
 * Propositionalization
 * Wordification and Python-RDM
 
-
 ### Literature
-
 * Džeroski S, Lavrač N (2001) Relational Data Mining. Springer, Berlin. [DOI:10.1007/978-3-662-04599-2](https://doi.org/10.1007/978-3-662-04599-2). Chapter 1, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/dze-lav-01-intro-to-ilp.pdf).
 
 
@@ -91,13 +88,13 @@ Last update: 19th of January 2021, 17:20 CET
 * Selecting kernels, setting hyper-parameters
 * Support vector machines and kernels in R
 
-### Slides and Exercise Materials
-[Slides](http://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-06-SVM.pdf)<BR/>
-[Exercises](./06-SVM/)<BR/>
-Last update: 14th of January 2021
+### Lecture Slides
+
+### Exercise Materials
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
+
 
 ## 7: Artificial Neural Networks and Deep Learning
 * General intro to ANNs
