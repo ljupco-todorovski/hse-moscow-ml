@@ -53,7 +53,7 @@ Last update: 19th of January 2021, 14:10 CET
 
 ### Exercise Materials
 [Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
-Last update: 19th of January 2021, 17:20 CET
+Last update: 20th of January 2021, 09:00 CET
 
 ### Literature
 * Fürnkranz J, Gamberger D and Lavrač N (2012) Foundations of Rule Learning. Springer, Berlin. [DOI:10.1007/978-3-540-75197-7](https://doi.org/10.1007/978-3-540-75197-7). Chapters 1 and 2, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/fur-etal-12-foundations-of-rule-learning-chapters-1-2.pdf).
