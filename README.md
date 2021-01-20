@@ -57,7 +57,7 @@ Last update: 19th of January 2021, 17:20 CET
 
 ### Literature
 
-TBA
+* Fürnkranz J, Gamberger D and Lavrač N (2012) Foundations of Rule Learning. Springer, Berlin. [DOI:10.1007/978-3-540-75197-7](https://doi.org/10.1007/978-3-540-75197-7). Chapters 1 and 2, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/fur-etal-12-foundations-of-rule-learning-chapters-1-2.pdf).
 
 
 ## 3: Relational Learning
@@ -65,6 +65,11 @@ TBA
 * Inductive logic programming
 * Propositionalization
 * Wordification and Python-RDM
+
+
+### Literature
+
+* Džeroski S, Lavrač N (2001) Relational Data Mining. Springer, Berlin. [DOI:10.1007/978-3-662-04599-2](https://doi.org/10.1007/978-3-662-04599-2). Chapter 1, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/dze-lav-01-intro-to-ilp.pdf).
 
 
 ## 4: Learning from Heterogeneous Data
