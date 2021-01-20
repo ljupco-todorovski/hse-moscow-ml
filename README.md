@@ -49,7 +49,7 @@ Last update: 15th of January 2021, 9:10 CET
 
 ### Lecture Slides
 [Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)<BR/>
-Last update: 19th of January 2021, 14:10 CET
+Last update: 20th of January 2021, 15:00 CET
 
 ### Exercise Materials
 [Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
