@@ -65,6 +65,12 @@ Last update: 20th of January 2021, 09:00 CET
 * Propositionalization
 * Wordification and Python-RDM
 
+### Lecture Slides
+[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
+Last update: 21st of January 2021, 09:10 CET
+
+### Exercise Materials
+
 ### Literature
 * Džeroski S, Lavrač N (2001) Relational Data Mining. Springer, Berlin. [DOI:10.1007/978-3-662-04599-2](https://doi.org/10.1007/978-3-662-04599-2). Chapter 1, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/dze-lav-01-intro-to-ilp.pdf).
 
