@@ -67,7 +67,7 @@ Last update: 20th of January 2021, 09:00 CET
 
 ### Lecture Slides
 [Relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
-Last update: 21st of January 2021, 12:50 CET
+Last update: 21st of January 2021, 20:50 CET
 
 ### Exercise Materials
 [Relational learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
