@@ -66,7 +66,7 @@ Last update: 20th of January 2021, 09:00 CET
 * Wordification and Python-RDM
 
 ### Lecture Slides
-[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
+[Relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
 Last update: 21st of January 2021, 12:50 CET
 
 ### Exercise Materials
