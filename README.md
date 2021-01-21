@@ -117,7 +117,7 @@ Last update: 21st of January 2021, 13:50 CET
 * Embeddings in R
 
 
-## 9: Dimensionality reduction with Autoencoders
+## 9: Dimensionality Reduction with Autoencoders
 * Autoencoders as general embedding approach
 * Taxonomy of autoencoders: regularization and denoising
 * Autoencoders in R
