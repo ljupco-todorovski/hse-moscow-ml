@@ -76,6 +76,7 @@ Last update: 21st of January 2021, 18:00 CET
 ### Literature
 * Džeroski S and Lavrač N (2001) Relational Data Mining. Springer, Berlin. [DOI:10.1007/978-3-662-04599-2](https://doi.org/10.1007/978-3-662-04599-2). Chapter 1, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/dze-lav-01-intro-to-ilp.pdf).
 * Perovšek M, Vavpetič A, Kranjc J, Cestnik B and Lavrač N (2015) Wordification: Propositionalization by unfolding relational data into bags of words. [DOI:10.1016/j.eswa.2015.04.017](http://doi.org/10.1016/j.eswa.2015.04.017). Available [here](https://kt.ijs.si/NadaLavrac/Publications/ESwA-2015-Wordification.pdf).
+* Železný F and Lavrač N (2006) Propositionalization-based relational subgroup discovery with RSD. [DOI:10.1007/s10994-006-8633-8](http://doi.org/10.1007/s10994-006-8633-8). Available [here](http://kt.ijs.si/nada_lavrac/Publications/ML-2006-SubgroupDiscoveryWithRSD.pdf).
 
 
 ## 4: Learning from Heterogeneous Data
