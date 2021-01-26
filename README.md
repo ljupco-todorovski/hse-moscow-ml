@@ -81,8 +81,8 @@ Last update: 21st of January 2021, 18:00 CET
 
 ## 4: Learning from Heterogeneous Data
 * Semantic relational learning (learning from taxonomies and ontologies)
-* Propositionalization of heterogeneous information networks
-* HINMINE
+* Propositionalization of heterogeneous information networks (HINMINE in TEHmMINE)
+* Practical exercises with HINMINE
 
 ### Lecture Slides
 
