@@ -14,7 +14,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Thursday, 14th of January 2021  | [Introduction to Machine Learning](#1-introduction-to-machine-learning) |
 | Tuesday, 19th of January 2021   | [Learning Rules](#2-leatning-rules) |
 | Thursday, 21st of January 2021  | [Relational Learning](#3-relational-learning) |
-| Tuesday, 26th of January 2021   | Learning from Heterogeneous Data |
+| Tuesday, 26th of January 2021   | [Learning from Heterogeneous Data](#4-learning-from-heterogeneous-data) |
 | Thursday, 28th of January 2021  | Learning Ensembles |
 | Tuesday, 2nd of February 2021   | Support Vectors Machines and Kernels |
 | Thursday, 4th of February 2021  | Artificial Neural Networks and Deep Learning |
