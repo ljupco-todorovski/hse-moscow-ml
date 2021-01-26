@@ -83,7 +83,7 @@ Last update: 21st of January 2021, 18:00 CET
 * Semantic relational learning with ontologies
     + Propositionalization, Hedwig and NetSDM
 * Propositionalization of heterogeneous information networks
-    + TEHmMINE and HINMINE
+    + TEHmINE and HINMINE
 * Practical exercises with HINMINE
 
 ### Lecture Slides
