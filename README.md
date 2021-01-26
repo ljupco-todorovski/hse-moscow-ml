@@ -67,7 +67,7 @@ Last update: 20th of January 2021, 09:00 CET
 
 ### Lecture Slides
 [Relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
-Last update: 21st of January 2021, 20:50 CET
+Last update: 25th of January 2021, 17:40 CET
 
 ### Exercise Materials
 [Relational learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
@@ -80,9 +80,17 @@ Last update: 21st of January 2021, 18:00 CET
 
 
 ## 4: Learning from Heterogeneous Data
+* Semantic relational learning (learning from taxonomies and ontologies)
 * Propositionalization of heterogeneous information networks
-* Learning from taxonomies and ontologies
-* Semantic learning with HINMINE
+* HINMINE
+
+### Lecture Slides
+
+
+### Exercise Materials
+
+
+### Literatures
 
 
 ## 5: Learning Ensembles
