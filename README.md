@@ -93,6 +93,9 @@ Last update: 21st of January 2021, 18:00 CET
 
 
 ### Literature
+* Kralj J, Robnik-Šikonja M and Lavrač N (2019) NetSDM: semantic data mining with network analysis. [Journal of Machine Learning Research 20: 1-50](https://jmlr.org/papers/v20/17-066.html).
+* Kralj J, Robnik-Šikonja M and Lavrač N (2018) HINMINE: Heterogeneous Information Network Mining with Information Retrieval Heuristics. [DOI:10.1007/s10844-017-0444-9](https://doi.org/10.1007/s10844-017-0444-9). Available [here](http://lkm.fri.uni-lj.si/rmarko/papers/Kralj2017-JIIS-preprint.pdf).
+
 
 
 ## 5: Learning Ensembles
