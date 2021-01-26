@@ -81,7 +81,7 @@ Last update: 21st of January 2021, 18:00 CET
 
 ## 4: Learning from Heterogeneous Data
 * Semantic relational learning (propositionalization, Hedwig and NetSDM)
-* Propositionalization of heterogeneous information networks (HINMINE and TEHmMINE)
+* Propositionalization of heterogeneous information networks (TEHmMINE and HINMINE)
 * Practical exercises with HINMINE
 
 ### Lecture Slides
