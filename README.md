@@ -87,7 +87,8 @@ Last update: 26th of January 2021, 15:20 CET
 * Practical exercises with HINMINE
 
 ### Lecture Slides
-
+[Semantic relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
+Last update: 26th of January 2021, 17:20 CET
 
 ### Exercise Materials
 
