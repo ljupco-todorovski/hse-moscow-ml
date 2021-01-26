@@ -71,7 +71,7 @@ Last update: 25th of January 2021, 17:40 CET
 
 ### Exercise Materials
 [Relational learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
-Last update: 21st of January 2021, 18:00 CET
+Last update: 26th of January 2021, 15:20 CET
 
 ### Literature
 * Džeroski S and Lavrač N (2001) Relational Data Mining. Springer, Berlin. [DOI:10.1007/978-3-662-04599-2](https://doi.org/10.1007/978-3-662-04599-2). Chapter 1, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/dze-lav-01-intro-to-ilp.pdf).
