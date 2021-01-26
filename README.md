@@ -67,7 +67,7 @@ Last update: 20th of January 2021, 09:00 CET
 
 ### Lecture Slides
 [Relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
-Last update: 25th of January 2021, 17:40 CET
+Last update: 26th of January 2021, 20:10 CET
 
 ### Exercise Materials
 [Relational learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
@@ -88,7 +88,7 @@ Last update: 26th of January 2021, 15:20 CET
 
 ### Lecture Slides
 [Semantic relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
-Last update: 26th of January 2021, 17:20 CET
+Last update: 26th of January 2021, 20:10 CET
 
 ### Exercise Materials
 
