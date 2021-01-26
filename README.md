@@ -81,7 +81,7 @@ Last update: 21st of January 2021, 18:00 CET
 
 ## 4: Learning from Heterogeneous Data
 * Semantic relational learning with ontologies
-  ** Propositionalization, Hedwig and NetSDM
+    + Propositionalization, Hedwig and NetSDM
 * Propositionalization of heterogeneous information networks (TEHmMINE and HINMINE)
 * Practical exercises with HINMINE
 
@@ -91,7 +91,7 @@ Last update: 21st of January 2021, 18:00 CET
 ### Exercise Materials
 
 
-### Literatures
+### Literature
 
 
 ## 5: Learning Ensembles
