@@ -107,7 +107,7 @@ Last update: 26th of January 2021, 20:20 CET
 
 ### Lecture Slides
 [Learning Ensembles](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-05-Learning-Ensembles-LT.pdf)<BR/>
-Last update: 26th of January 2021, 20:20 CET
+Last update: 27th of January 2021, 14:50 CET
 
 ### Exercise Materials
 
