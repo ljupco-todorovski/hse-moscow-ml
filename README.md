@@ -101,7 +101,7 @@ Last update: 26th of January 2021, 20:20 CET
 
 ## 5: Learning Ensembles
 * Why ensembles: variance reduction
-* Boosting, Bagging, Feature subspaces, Random forests
+* Boosting, bagging, feature subspaces, random forests
 * Out-of-bag error estimate, attribute importance
 * Bagging and random forests in R
 
