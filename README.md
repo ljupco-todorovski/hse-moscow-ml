@@ -100,10 +100,19 @@ Last update: 26th of January 2021, 20:20 CET
 
 
 ## 5: Learning Ensembles
-* Why ensembles: bias and variance decomposition of the predictive error
+* Why ensembles: variance reduction
 * Boosting, Bagging, Feature subspaces, Random forests
-* Out of bag error estimate, feature importance
-* Random forests in R
+* Out-of-bag error estimate, attribute importance
+* Bagging and random forests in R
+
+### Lecture Slides
+[Learning Ensembles](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-05-Learning-Ensembles-LT.pdf)<BR/>
+Last update: 26th of January 2021, 20:20 CET
+
+### Exercise Materials
+
+### Literature
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 8.2 (Bagging, Random Forest, Boosting), check also exercises 5 and 7-12 at the end of Section 8.
 
 
 ## 6: Support Vectors Machines and Kernels
