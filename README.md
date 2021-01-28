@@ -89,6 +89,8 @@ Last update: 26th of January 2021, 15:20 CET
 ### Lecture Slides
 [Semantic Relational Learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
 Last update: 26th of January 2021, 20:20 CET
+[Heterogeneous Information Networks](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04b-Heterogeneous-Data-Part2-NL.pdf)<BR/>
+Last update: 29th of January 2021, 00:20 CET
 
 ### Exercise Materials
 [HINMINE in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/04/HSE-04-Heterogeneous-Data-LT.zip)<BR/>
@@ -108,7 +110,7 @@ Last update: 28th of January 2021, 15:20 CET
 
 ### Lecture Slides
 [Learning Ensembles](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-05-Learning-Ensembles-LT.pdf)<BR/>
-Last update: 28th of January 2021, 15:50 CET
+Last update: 29th of January 2021, 00:20 CET
 
 ### Exercise Materials
 [Bagging and Random Forests in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
