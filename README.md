@@ -48,11 +48,11 @@ Last update: 15th of January 2021, 9:10 CET
 * Evaluating rules and rule sets
 
 ### Lecture Slides
-[Learning rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)<BR/>
+[Learning Rules](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-02-Rule-Learning-NL.pdf)<BR/>
 Last update: 20th of January 2021, 15:00 CET
 
 ### Exercise Materials
-[Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
+[Learning Decision Trees and Rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
 Last update: 28th of January 2021, 15:20 CET
 
 ### Literature
@@ -66,11 +66,11 @@ Last update: 28th of January 2021, 15:20 CET
 * Wordification and Python-RDM
 
 ### Lecture Slides
-[Relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
+[Relational Learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-03-Relational-Learning-NL.pdf)<BR/>
 Last update: 26th of January 2021, 20:10 CET
 
 ### Exercise Materials
-[Relational learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
+[Relational Learning in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/03/HSE-03-Relational-Learning-LT.zip)<BR/>
 Last update: 26th of January 2021, 15:20 CET
 
 ### Literature
@@ -87,7 +87,7 @@ Last update: 26th of January 2021, 15:20 CET
 * Practical exercises with HINMINE
 
 ### Lecture Slides
-[Semantic relational learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
+[Semantic Relational Learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
 Last update: 26th of January 2021, 20:20 CET
 
 ### Exercise Materials
@@ -111,7 +111,7 @@ Last update: 28th of January 2021, 15:20 CET
 Last update: 27th of January 2021, 14:50 CET
 
 ### Exercise Materials
-[Learning ensembles in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
+[Bagging and Random Forests in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
 Last update: 28th of January 2021, 15:10 CET
 
 ### Literature
