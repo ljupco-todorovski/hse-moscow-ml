@@ -53,7 +53,7 @@ Last update: 20th of January 2021, 15:00 CET
 
 ### Exercise Materials
 [Learning decision trees and rules in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/02/HSE-02-Learning-Rules-LT.nb.html)<BR/>
-Last update: 20th of January 2021, 09:00 CET
+Last update: 28th of January 2021, 15:20 CET
 
 ### Literature
 * Fürnkranz J, Gamberger D and Lavrač N (2012) Foundations of Rule Learning. Springer, Berlin. [DOI:10.1007/978-3-540-75197-7](https://doi.org/10.1007/978-3-540-75197-7). Chapters 1 and 2, available [here](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/readings/fur-etal-12-foundations-of-rule-learning-chapters-1-2.pdf).
@@ -91,7 +91,8 @@ Last update: 26th of January 2021, 15:20 CET
 Last update: 26th of January 2021, 20:20 CET
 
 ### Exercise Materials
-
+[HINMINE in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/04/HSE-04-Heterogeneous-Data-LT.zip)<BR/>
+Last update: 28th of January 2021, 15:20 CET
 
 ### Literature
 * Kralj J, Robnik-Šikonja M and Lavrač N (2019) NetSDM: semantic data mining with network analysis. [Journal of Machine Learning Research 20: 1-50](https://jmlr.org/papers/v20/17-066.html).
@@ -110,6 +111,8 @@ Last update: 26th of January 2021, 20:20 CET
 Last update: 27th of January 2021, 14:50 CET
 
 ### Exercise Materials
+[Learning ensembles in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
+Last update: 28th of January 2021, 15:10 CET
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 8.2 (Bagging, Random Forest, Boosting), check also exercises 5 and 7-12 at the end of Section 8.
