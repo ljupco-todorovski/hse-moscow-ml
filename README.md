@@ -108,7 +108,7 @@ Last update: 28th of January 2021, 15:20 CET
 
 ### Lecture Slides
 [Learning Ensembles](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-05-Learning-Ensembles-LT.pdf)<BR/>
-Last update: 27th of January 2021, 14:50 CET
+Last update: 28th of January 2021, 15:50 CET
 
 ### Exercise Materials
 [Bagging and Random Forests in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
