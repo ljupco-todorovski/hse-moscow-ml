@@ -90,7 +90,7 @@ Last update: 26th of January 2021, 15:20 CET
 [Semantic Relational Learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04a-Heterogeneous-Data-Part1-NL.pdf)<BR/>
 Last update: 26th of January 2021, 20:20 CET
 [Heterogeneous Information Networks](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-04b-Heterogeneous-Data-Part2-NL.pdf)<BR/>
-Last update: 29th of January 2021, 00:20 CET
+Last update: 29th of January 2021, 09:50 CET
 
 ### Exercise Materials
 [HINMINE in Python](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/04/HSE-04-Heterogeneous-Data-LT.zip)<BR/>
