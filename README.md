@@ -110,11 +110,11 @@ Last update: 28th of January 2021, 15:20 CET
 
 ### Lecture Slides
 [Learning Ensembles](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-05-Learning-Ensembles-LT.pdf)<BR/>
-Last update: 29th of January 2021, 00:20 CET
+Last update: 2nd of February 2021, 22:10 CET
 
 ### Exercise Materials
 [Bagging and Random Forests in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/05/HSE-05-Learning-Ensembles-LT.nb.html)<BR/>
-Last update: 28th of January 2021, 15:10 CET
+Last update: 2nd of February 2021, 22:10 CET
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 8.2 (Bagging, Random Forest, Boosting), check also exercises 5 and 7-12 at the end of Section 8.
