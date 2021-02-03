@@ -5,6 +5,32 @@ This repository includes teaching materials related to the elective course Machi
 For further information on the course, students can contact the lecturers via email at [Nada Lavrač](mailto:nada.lavrac@ijs.si), `nada.lavrac@ijs.si` and [Ljupco Todorovski](mailto:ljupco.todorovski@fu.uni-lj.si), `ljupco.todorovski@fu.uni-lj.si`.
 
 
+## Grading
+
+The grading for this course will be based on two types of assignments, homework and written exam. The schedule of the assignments is summarized in the following table:
+
+| Assignment   | Grading | Submission Deadline (Date) |
+|--------------|---------|----------------------------|
+| [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/) |   25% | 16th of February 2021 |
+| Homework 2   |     25% | 25th of February 2021 |
+| Written Exam |     50% | 2nd of March 2021 |
+
+Please note that the schedule is tentative and subject to discussion during the lectures on Thursday, 4th of February. After that date and based on the discussion and your comments, we will prepare the final version of the schedule.
+
+### Student Clusters and Groups
+
+We have noticed that there are two clusters of students attending the course:
+1. Seventeen (17) students that have chosen the course officially. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). All students from this cluster are expected to take the written exam.
+
+This cluster includes the following students: Borisyuk Anna, Vidovic Milica, Vorobeva Maria, Danilova Kseniia, Eremenko Alexandra, Kuzina Maria, Makhsudova Elvina, Parkhaeva Olga, Khairullina Dinara, Shabanova Ekaterina, Shakhova Anna, Petrov Gleb, Vladimirova Ksenia, Kozlova Yulia, Li Ling, Stremousov Alexander, and Chzu Chongrui.
+
+1. Other students that attend the course voluntarily and are not on the official list of course students. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). The students from this cluster will not be able to take the written exam.
+
+### Other rules
+
+TBA.
+
+
 ## Tentative Course Schedule for the Academic Year 2020/21
 
 You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-si.zoom.us/j/97756216461), `https://fmf-uni-lj-si.zoom.us/j/97756216461` or join the Zoom meeting using the ID `977 562 16461`.
