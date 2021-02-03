@@ -25,7 +25,7 @@ We have noticed that there are two clusters of students attending the course:
 
 This cluster includes the following students: Borisyuk Anna, Vidovic Milica, Vorobeva Maria, Danilova Kseniia, Eremenko Alexandra, Kuzina Maria, Makhsudova Elvina, Parkhaeva Olga, Khairullina Dinara, Shabanova Ekaterina, Shakhova Anna, Petrov Gleb, Vladimirova Ksenia, Kozlova Yulia, Li Ling, Stremousov Alexander, and Chzu Chongrui.
 
-1. Other students that attend the course voluntarily and are not on the official list of course students. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). The students from this cluster will not be able to take the written exam.
+2. Other students that attend the course voluntarily and are not on the official list of course students. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). The students from this cluster will not be able to take the written exam.
 
 ### Other rules
 
