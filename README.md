@@ -20,6 +20,7 @@ Please note that the schedule is tentative and subject to discussion during the 
 ### Student Clusters and Groups
 
 We have noticed that there are two clusters of students attending the course:
+
 1. Seventeen (17) students that have chosen the course officially. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). All students from this cluster are expected to take the written exam.
 
 This cluster includes the following students: Borisyuk Anna, Vidovic Milica, Vorobeva Maria, Danilova Kseniia, Eremenko Alexandra, Kuzina Maria, Makhsudova Elvina, Parkhaeva Olga, Khairullina Dinara, Shabanova Ekaterina, Shakhova Anna, Petrov Gleb, Vladimirova Ksenia, Kozlova Yulia, Li Ling, Stremousov Alexander, and Chzu Chongrui.
