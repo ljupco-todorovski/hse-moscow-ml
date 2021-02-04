@@ -162,13 +162,13 @@ Last update: 4th of February 2021, 15:40 CET
 * Nielsen M (2019) Neural Networks and Deep Learning. Available at [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/). Excellent and highly recommended further reading.
 
 
-## 8: Complex Data Types and Embeddings
+## 7: Complex Data Types and Embeddings
 * Embeddings for text data, word2vec and doc2vec
 * Embeddings for network data, node2vec
 * Embeddings in R
 
 
-## 9: Dimensionality Reduction with Autoencoders
+## 8: Dimensionality Reduction with Autoencoders
 * Autoencoders as general embedding approach
 * Taxonomy of autoencoders: regularization and denoising
 * Autoencoders in R
