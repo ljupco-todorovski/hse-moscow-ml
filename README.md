@@ -13,7 +13,7 @@ The grading for this course will be based on two types of assignments, homework 
 |--------------|---------|----------------------------|
 | [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/HSE-first-assignment.nb.html) |   25%| 16th of February 2021|
 | Homework 2   |     25%| 25th of February 2021|
-| Written Exam |     50%| 2nd of March 2021|
+| Written Exam |     50%| 2nd of March 2021 @19:00 (7:00pm) Moscow time |
 
 Please note that the schedule is tentative and subject to discussion during the lectures on Thursday, 4th of February. After that date and based on the discussion and your comments, we will prepare the final version of the schedule.
 
