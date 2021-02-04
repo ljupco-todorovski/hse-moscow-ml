@@ -11,9 +11,9 @@ The grading for this course will be based on two types of assignments, homework 
 
 | Assignment   | Grading | Submission Deadline (Date) |
 |--------------|---------|----------------------------|
-| [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/HSE-first-assignment.nb.html) |   25% | 16th of February 2021 |
-| Homework 2   |     25% | 25th of February 2021 |
-| Written Exam |     50% | 2nd of March 2021 |
+| [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/HSE-first-assignment.nb.html) |   25%| 16th of February 2021|
+| Homework 2   |     25%| 25th of February 2021|
+| Written Exam |     50%| 2nd of March 2021|
 
 Please note that the schedule is tentative and subject to discussion during the lectures on Thursday, 4th of February. After that date and based on the discussion and your comments, we will prepare the final version of the schedule.
 
@@ -26,7 +26,7 @@ We have noticed that there are two clusters of students attending the course:
 
 ### Other Information 
 
-The written exam will be composed of three types of questions: (1) multiple choice questions and (2) questions requiring short answers related to the methodology and theory of machine learning, as well as (3) practical exercises that will require performing a certain learning task on given data and providing answers to specific questions related to the obtained models and results.
+The written exam will be composed of three types of questions: (1) multiple choice questions and (2) questions requiring short answers related to the methodology and theory of machine learning, as well as (3) a practical exercise that will require performing a certain learning task on given data and providing answers to specific questions related to the obtained models and results.
 
 
 ## Tentative Course Schedule for the Academic Year 2020/21
