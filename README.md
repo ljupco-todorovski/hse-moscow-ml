@@ -11,7 +11,7 @@ The grading for this course will be based on two types of assignments, homework 
 
 | Assignment   | Grading | Submission Deadline (Date) |
 |--------------|---------|----------------------------|
-| [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/) |   25% | 16th of February 2021 |
+| [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/HSE-first-assignment.nb.html) |   25% | 16th of February 2021 |
 | Homework 2   |     25% | 25th of February 2021 |
 | Written Exam |     50% | 2nd of March 2021 |
 
