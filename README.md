@@ -24,9 +24,9 @@ We have noticed that there are two clusters of students attending the course:
 1. Seventeen (17) students that have chosen the course officially. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). All students from this cluster are expected to take the written exam.<BR/>This cluster includes the following students: Borisyuk Anna, Vidovic Milica, Vorobeva Maria, Danilova Kseniia, Eremenko Alexandra, Kuzina Maria, Makhsudova Elvina, Parkhaeva Olga, Khairullina Dinara, Shabanova Ekaterina, Shakhova Anna, Petrov Gleb, Vladimirova Ksenia, Kozlova Yulia, Li Ling, Stremousov Alexander, and Chzu Chongrui.
 1. Other students that attend the course voluntarily and are not on the official list of course students. These students can work on the homework assignments and submit their solutions in groups with other students **from this cluster only** (up to three students per group). The students from this cluster will not be able to take the written exam.
 
-### Other rules
+### Other Information 
 
-TBA.
+The written exam will be composed of three types of questions: (1) multiple choice questions and (2) questions requiring short answers related to the methodology and theory of machine learning, as well as (3) practical exercises that will require performing a certain learning task on given data and providing answers to specific questions related to the obtained models and results.
 
 
 ## Tentative Course Schedule for the Academic Year 2020/21
