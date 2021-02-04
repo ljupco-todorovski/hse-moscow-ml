@@ -38,13 +38,12 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Thursday, 14th of January 2021  | [Introduction to Machine Learning](#1-introduction-to-machine-learning) |
 | Tuesday, 19th of January 2021   | [Learning Rules](#2-leatning-rules) |
 | Thursday, 21st of January 2021  | [Relational Learning](#3-relational-learning) |
-| Tuesday, 26th of January 2021   | [Learning from Heterogeneous Data](#4-learning-from-heterogeneous-data) |
-| Thursday, 28th of January 2021  | [Learning Ensembles](#5-learning-ensembles) |
-| Tuesday, 2nd of February 2021   | Support Vectors Machines and Kernels |
-| Thursday, 4th of February 2021  | Artificial Neural Networks and Deep Learning |
+| Tuesday, 26th of January 2021<BR/>Thursday, 28th of January 2021   | [Learning from Heterogeneous Data](#4-learning-from-heterogeneous-data) |
+| Thursday, 28th of January 2021<BR/>Tuesday, 2nd of February 2021  | [Learning Ensembles](#5-learning-ensembles) |
+| Thursday, 4th of February 2021  | [Artificial Neural Networks and Deep Learning](#6-neural-networks) |
 | Tuesday, 9th of February 2021   | Complex Data Types and Embeddings |
 | Thursday, 11th of February 2021 | Dimensionality Reduction with Autoencoders |
-| Tuesday, 16th of February 2021  | TBA |
+| Tuesday, 16th of February 2021  | TBA: Support Vectors Machines and Kernels or Literature-Based Discovery |
 
 
 ## 1: Introduction to Machine Learning
@@ -144,25 +143,23 @@ Last update: 2nd of February 2021, 22:10 CET
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 8.2 (Bagging, Random Forest, Boosting), check also exercises 5 and 7-12 at the end of Section 8.
 
 
-## 6: Support Vectors Machines and Kernels
-* Linear support vector machine
-* Non-linearity and kernel functions
-* Selecting kernels, setting hyper-parameters
-* Support vector machines and kernels in R
-
-### Lecture Slides
-
-### Exercise Materials
-
-### Literature
-* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
-
-
-## 7: Artificial Neural Networks and Deep Learning
-* General intro to ANNs
+## 6: Neural Networks and Deep Learning
+* General introduction to NNs
 * Feed-forward networks and back propagation
 * Towards deep networks: Convolutional networks
-* ANNs in R
+* Neural networks in R
+
+### Lecture Slides
+[Neural Networks and Deep Learning](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-06-Neural-Networks-LT.pdf)<BR/>
+Last update: 4th of February 2021, 15:10 CET
+
+### Exercise Materials
+[Neural Networks in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/06/HSE-06-Neural-Networks-LT.nb.html)<BR/>
+Last update: 4th of February 2021, 15:20 CET
+
+### Literature
+* Hastie T, Tibshirani R and Friedman J (2009) The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, New York. Available at [https://web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/). Sections 11.2 to 11.8 of Chapter 11.
+* Nielsen M (2019) Neural Networks and Deep Learning. Available at [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/). Excellent and highly recommended further reading.
 
 
 ## 8: Complex Data Types and Embeddings
@@ -175,3 +172,18 @@ Last update: 2nd of February 2021, 22:10 CET
 * Autoencoders as general embedding approach
 * Taxonomy of autoencoders: regularization and denoising
 * Autoencoders in R
+
+
+## X: Support Vectors Machines and Kernels
+* Note: to be reconsidered later in the course
+* Linear support vector machine
+* Non-linearity and kernel functions
+* Selecting kernels, setting hyper-parameters
+* Support vector machines and kernels in R
+
+### Lecture Slides
+
+### Exercise Materials
+
+### Literature
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
