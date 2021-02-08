@@ -162,13 +162,24 @@ Last update: 4th of February 2021, 15:40 CET
 * Nielsen M (2019) Neural Networks and Deep Learning. Available at [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/). Excellent and highly recommended further reading.
 
 
-## 7: Complex Data Types and Embeddings
-* Embeddings for text data, word2vec and doc2vec
-* Embeddings for network data, node2vec
-* Embeddings in R
+## 7: Semi-Structured Data
+* Complex data types: semi-structured data and networks
+* Embedding of semi-structured data, bag-of-words
+* Embedding of words and text documents, word2vec and doc2vec
+* Classifying text documents in R
+
+### Lecture Slides
+[Semi-Structured Data](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-07-Semi-Structured-Data-LT.pdf)<BR/>
+Last update: 9th of February 2021, 00:20 CET
+
+
+### Exercise Materials
+[Classifying Text Documents in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/07/HSE-07-Classifying-Text-Documents-LT.nb.html)<BR/>
+Last update: 9th of February 2021, 00:20 CET
 
 
 ## 8: Dimensionality Reduction with Autoencoders
+* Complex data types: semi-structured data and networks
 * Autoencoders as general embedding approach
 * Taxonomy of autoencoders: regularization and denoising
 * Autoencoders in R
