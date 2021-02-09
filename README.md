@@ -172,7 +172,7 @@ Last update: 4th of February 2021, 15:40 CET
 
 ### Lecture Slides
 [Embedding Semi-Structured Data](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-07-Complex-Data-Types-1-LT.pdf)<BR/>
-Last update: 9th of February 2021, 00:20 CET<BR/>
+Last update: 9th of February 2021, 11:20 CET<BR/>
 [Embedding Networks](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-07-Complex-Data-Types-2-LT.pdf)<BR/>
 Last update: NA
 
