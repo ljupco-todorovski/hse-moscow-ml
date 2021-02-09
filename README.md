@@ -41,7 +41,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Tuesday, 26th of January 2021<BR/>Thursday, 28th of January 2021   | [Learning from Heterogeneous Data](#4-learning-from-heterogeneous-data) |
 | Thursday, 28th of January 2021<BR/>Tuesday, 2nd of February 2021  | [Learning Ensembles](#5-learning-ensembles) |
 | Thursday, 4th of February 2021  | [Artificial Neural Networks and Deep Learning](#6-neural-networks-and-deep-learning) |
-| Tuesday, 9th of February 2021   | Complex Data Types and Embeddings |
+| Tuesday, 9th of February 2021<BR/>Thursday, 11th of February 2021 | [Embedding Complex Data Types](#7-embedding-complex-data-types) |
 | Thursday, 11th of February 2021 | Dimensionality Reduction with Autoencoders |
 | Tuesday, 16th of February 2021  | TBA: Support Vectors Machines and Kernels or Literature-Based Discovery |
 
