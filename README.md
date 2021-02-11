@@ -199,7 +199,7 @@ Last update: 11th of February 2021, 15:00 CET
 Last update: 11th of February 2021, 13:20 CET
 
 ### Literature
-* PCA: TBA
+* James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 10.2: Principal Components Analysis.
 * Goodfellow I, Bengio Y, Courville A (2016) Deep Learning. MIT Press. Available at [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/). Introductory part of Section 14.
 * Charte D, Charte F, García S, del Jesus MJ, Herrera F (2018) A practical tutorial on autoencoders for nonlinear feature fusion: Taxonomy, models, software and guidelines. [arXiv:1801.01586](https://arxiv.org/abs/1801.01586).
 
