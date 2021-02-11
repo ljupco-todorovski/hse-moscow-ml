@@ -178,7 +178,9 @@ Last update: 11th of February, 11:10 CET
 
 ### Exercise Materials
 [Classifying Text Documents in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/07/HSE-07-Classifying-Text-Documents-LT.nb.html)<BR/>
-Last update: 9th of February 2021, 22:20 CET
+Last update: 9th of February 2021, 22:20 CET<BR/>
+[Classifying Network Nodes in R]((https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/07/HSE-07-Classifying-Network-Nodes-LT.nb.html)<BR/>
+Last update: 11th of February 2021, 15:00 CET
 
 ### Literature
 * Mikolov T, Chen K, Corrado G, Dean J (2013) Efficient estimation of word representations in vector space. [arXiv:1301.3781](https://arxiv.org/abs/1301.3781).
