@@ -42,8 +42,8 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Thursday, 28th of January 2021<BR/>Tuesday, 2nd of February 2021  | [Learning Ensembles](#5-learning-ensembles) |
 | Thursday, 4th of February 2021  | [Artificial Neural Networks and Deep Learning](#6-neural-networks-and-deep-learning) |
 | Tuesday, 9th of February 2021<BR/>Thursday, 11th of February 2021 | [Embedding Complex Data Types](#7-embedding-complex-data-types) |
-| Thursday, 11th of February 2021 | Dimensionality Reduction with Autoencoders |
-| Tuesday, 16th of February 2021  | TBA: Support Vectors Machines and Kernels or Literature-Based Discovery |
+| Thursday, 11th of February 2021 | [Dimensionality Reduction with Autoencoders](#8-dimensionality-reduction-and-autoencoders) |
+| Tuesday, 16th of February 2021  | TBA: Support Vectors Machines and Kernels and/or Literature-Based Discovery |
 
 
 ## 1: Introduction to Machine Learning
@@ -187,13 +187,20 @@ Last update: 9th of February 2021, 22:20 CET
 * Perozzi B, Al-Rfou R, Skiena S (2014) DeepWalk: Online learning of social representations. [arXiv:1403.6652](https://arxiv.org/abs/1403.6652).
 
 
-## 8: Dimensionality Reduction with Autoencoders
+## 8: Dimensionality Reduction and Autoencoders
+* Classic methods for dimensionality reduction, PCA
 * Autoencoders as general embedding approach
-* Taxonomy of autoencoders: regularization and denoising
-* Autoencoders in R
+* Taxonomy of autoencoders: regularization and de-noising
+
+### Lecture Slides
+[Dimensionality Reduction and Autoencoders]((https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-08-Dim-Reduction-Autoencoders-LT.pdf)<BR/>
+TBA
+
+### Literature
+TBA
 
 
-## X: Support Vectors Machines and Kernels
+## 9: Support Vectors Machines and Kernels
 * Note: to be reconsidered later in the course
 * Linear support vector machine
 * Non-linearity and kernel functions
