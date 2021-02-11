@@ -193,7 +193,7 @@ Last update: 9th of February 2021, 22:20 CET
 * Taxonomy of autoencoders: regularization and de-noising
 
 ### Lecture Slides
-[Dimensionality Reduction and Autoencoders]((https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-08-Dim-Reduction-Autoencoders-LT.pdf)<BR/>
+[Dimensionality Reduction and Autoencoders](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-08-Dim-Reduction-Autoencoders-LT.pdf)<BR/>
 TBA
 
 ### Literature
