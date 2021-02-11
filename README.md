@@ -12,7 +12,7 @@ The grading for this course will be based on two types of assignments, homework 
 | Assignment   | Grading | Submission Deadline (Date) |
 |--------------|---------|----------------------------|
 | [Homework 1](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-1/HSE-first-assignment.nb.html) |   25%| 16th of February 2021|
-| Homework 2   |     25%| 25th of February 2021|
+| [Homework 2](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/assignment-2/HSE-second-assignment.nb.html) |     25%| 25th of February 2021|
 | Written Exam |     50%| 2nd of March 2021 @19:00 (7:00pm) Moscow time |
 
 Please note that the schedule is tentative and subject to discussion during the lectures on Thursday, 4th of February. After that date and based on the discussion and your comments, we will prepare the final version of the schedule.
@@ -174,14 +174,18 @@ Last update: 4th of February 2021, 15:40 CET
 [Embedding Semi-Structured Data](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-07-Complex-Data-Types-1-LT.pdf)<BR/>
 Last update: 9th of February 2021, 22:20 CET<BR/>
 [Embedding Networks](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-07-Complex-Data-Types-2-LT.pdf)<BR/>
-Last update: NA
+Last update: 11th of February, 11:10 CET
 
 ### Exercise Materials
 [Classifying Text Documents in R](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/07/HSE-07-Classifying-Text-Documents-LT.nb.html)<BR/>
 Last update: 9th of February 2021, 22:20 CET
 
 ### Literature
-TBA
+* Mikolov T, Chen K, Corrado G, Dean J (2013) Efficient estimation of word representations in vector space. [arXiv:1301.3781](https://arxiv.org/abs/1301.3781).
+* Le QV, Mikolov T (2014) Distributed representations of sentences and documents. [arXiv:1405.4053](https://arxiv.org/abs/1405.4053).
+* Grover A, Leskovec J (2016) node2vec: Scalable feature learning for networks. [arXiv:1607.00653](https://arxiv.org/abs/1607.00653).
+* Perozzi B, Al-Rfou R, Skiena S (2014) DeepWalk: Online learning of social representations. [arXiv:1403.6652](https://arxiv.org/abs/1403.6652).
+
 
 ## 8: Dimensionality Reduction with Autoencoders
 * Autoencoders as general embedding approach
