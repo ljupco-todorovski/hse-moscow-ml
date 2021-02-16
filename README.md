@@ -18,7 +18,7 @@ The grading for this course will be based on two types of assignments, homework 
 Please note that the schedule is now final. We are going to organize additional hour of discussion related to the second homework and feedback on the first one on Tuesday, 23rd of February 2021 at 18:30 (6:30pm) Moscow time.
 
 ### Handling Late Submissions
-* For the first homework, you can delay the submission for up to ten days: therefore, the **ultimate deadline for submitting the first homework is 26th of February**. Each day of delay after 16th of February will reduce your score by 1%: for example, if you submit your homework on 21st of February (five days of delay) and your homework were initially evaluated with 20%, your final grade, due to the 5 days delay, will be 15%.
+* For the first homework, you can delay the submission for up to ten days: therefore, the **ultimate deadline for submitting the first homework is 26th of February**. Each day of delay after 16th of February will reduce your homework score by 1%: for example, if you submit your homework on 21st of February (five days of delay) and your homework were initially evaluated with 20%, your final grade, due to the 5 days delay, will be 15%.
 * The **ultimate deadline for submitting the second homework is 2nd of March**. The same rules for reducing the score as above apply, i.e., 1% penalty for one day of delay.
 
 ### Student Clusters and Groups
