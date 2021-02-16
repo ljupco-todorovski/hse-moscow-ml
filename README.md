@@ -213,7 +213,7 @@ Last update: 11th of February 2021, 13:20 CET
 	+ Selecting kernels, setting hyper-parameters
 
 ### Lecture Slides
-[Literature-Based Discovery](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-09-Litetature-Based-Discovery-NL.pdf)<BR/>
+[Literature-Based Discovery](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-09-Literature-Based-Discovery-NL.pdf)<BR/>
 Last update: 16th of February 2021, 16:30 CET<BR/>
 [Support Vector Machines and Kernels](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-09-SVM-Kernels-LT.pdf)<BR/>
 Last update: 16th of February 2021, 10:20 CET
