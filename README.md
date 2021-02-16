@@ -43,7 +43,7 @@ You can follow the lectures using the following [Zoom link](https://fmf-uni-lj-s
 | Thursday, 4th of February 2021  | [Artificial Neural Networks and Deep Learning](#6-neural-networks-and-deep-learning) |
 | Tuesday, 9th of February 2021<BR/>Thursday, 11th of February 2021 | [Embedding Complex Data Types](#7-embedding-complex-data-types) |
 | Thursday, 11th of February 2021 | [Dimensionality Reduction with Autoencoders](#8-dimensionality-reduction-and-autoencoders) |
-| Tuesday, 16th of February 2021  | TBA: Support Vectors Machines and Kernels and/or Literature-Based Discovery |
+| Tuesday, 16th of February 2021  | [Literature-Based Discovery and Support Vector Machines](#9-literature-based-discovery-and-support-vector-machines) |
 
 
 ## 1: Introduction to Machine Learning
@@ -204,16 +204,19 @@ Last update: 11th of February 2021, 13:20 CET
 * Charte D, Charte F, García S, del Jesus MJ, Herrera F (2018) A practical tutorial on autoencoders for nonlinear feature fusion: Taxonomy, models, software and guidelines. [arXiv:1801.01586](https://arxiv.org/abs/1801.01586).
 
 
-## 9: Support Vectors Machines and Kernels
-* Note: to be reconsidered later in the course
-* Linear support vector machine
-* Non-linearity and kernel functions
-* Selecting kernels, setting hyper-parameters
-* Support vector machines and kernels in R
+## 9: Literature-Based Discovery and Support Vector Machines
+* Literature-based discovery
+    + Connecting unrelated terms across domains
+* Support vector machines and kernels
+	+ Linear support vector machine
+	+ Non-linearity and kernel functions
+	+ Selecting kernels, setting hyper-parameters
 
 ### Lecture Slides
-
-### Exercise Materials
+[Literature-Based Discovery]()<BR/>
+TBA<BR/>
+[Support Vector Machines and Kernels](https://kt.ijs.si/~ljupco/lectures/hse-moscow-ml/HSE-09-SVM-Kernels-LT.pdf)<BR/>
+Last update: 16th of February 2021, 10:20 CET
 
 ### Literature
 * James G, Witten D, Hastie T and Tibshirani R (2013) An Introduction to Statistical Learning. Springer, New York. Available at [https://statlearning.com/](https://statlearning.com/). Section 9, check also exercises 1-8 in the same section.
